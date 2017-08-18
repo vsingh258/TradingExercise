@@ -6,7 +6,6 @@ Java 8.
 Maven 3.5.
 Eclipse/STS
 
-Steps to Build and run the application.
 
 Steps to Build and run the test classes.
 
@@ -18,7 +17,7 @@ Steps to review the Code and See the Output.
 
 1. Open Eclipse/STS.
 2. Import the project as Existing Maven Project.
-3. Locate the file Launch Application.
+3. Locate the file LaunchApplication.java.
 4. Right Click the file and Run as Java Application.
 
 
